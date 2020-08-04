@@ -31,7 +31,7 @@
 </h4>
 
 ---
-## Licença
+## License
 
 [LICENSE](LICENSE) & [Hcode](https://hcode.com.br/)
 
