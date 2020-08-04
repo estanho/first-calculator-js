@@ -1,5 +1,5 @@
 <h1 align="center">
-  :bowtie: First JavaScript Project :bowtie:
+  :books: First JavaScript Project :books:
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## Calculator JavaScript
-**Calculator** made during the [Hcode JavaScript course](https://hcode.com.br/).
+**Calculator** made during the [Hcode JavaScript course](https://www.udemy.com/course/javascript-curso-completo/).
 <br>
 
 ---
