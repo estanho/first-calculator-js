@@ -17,15 +17,15 @@
 
 ---
 
-## Calculator JavaScript
-**Calculator** made during the [Hcode JavaScript course](https://www.udemy.com/course/javascript-curso-completo/).
+## Calculator made in JavaScript :green_book:
+**Calculator** made during the [Hcode JavaScript course](https://www.udemy.com/course/javascript-curso-completo/). :neckbeard:
 <br>
 
 ---
 <p align="center">
   <img src="github/image1.png">
 </p>
-
+(Double-clicking AC activates the sound.)
 ---
 ## Licença
 
