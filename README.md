@@ -25,7 +25,10 @@
 <p align="center">
   <img src="github/image1.png">
 </p>
-(Double-clicking AC activates the sound.)
+
+<h4 align="center">
+  (Double-clicking AC activates the sound.)
+</h4>
 
 ---
 ## Licença
