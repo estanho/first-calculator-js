@@ -26,6 +26,7 @@
   <img src="github/image1.png">
 </p>
 (Double-clicking AC activates the sound.)
+
 ---
 ## Licença
 
