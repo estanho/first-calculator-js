@@ -7,7 +7,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/estanho/first-calculator-js">
   
-  <a href="https://github.com/estanho/next-level-week-1.0/commits/master">
+  <a href="https://github.com/estanho/first-calculator-js/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/estanho/first-calculator-js">
   </a>
   <a href="https://github.com/estanho/first-calculator-js/blob/master/LICENSE">
